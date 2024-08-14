@@ -1,0 +1,10 @@
+global using Microsoft.AspNetCore.Mvc;
+global using UserManagementAPI.Repositories;
+global using UserManagementAPI.Models;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.AspNetCore.Authorization;
+global using System.Security.Claims;
+global using UserManagementAPI.Services;
+global using System.IdentityModel.Tokens.Jwt;
+global using System.Text;
+global using Microsoft.IdentityModel.Tokens;
